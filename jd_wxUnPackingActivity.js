@@ -5,6 +5,7 @@
 
 默认助力第一个CK，第一个CK失效会退出脚本
 脚本自动入会，不想入会勿跑！
+7 7 7 7 7 jd_wxUnPackingActivity.js
 
 */
 
